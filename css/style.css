@@ -16,7 +16,7 @@ html{
     margin: auto;
 }
 
-.box {
+#box {
     background-color: #1389B2;
     width: 100px;
     height: 100px;
