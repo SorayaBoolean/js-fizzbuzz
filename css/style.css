@@ -25,3 +25,15 @@ html{
     align-items: center;
     margin: 20px;
 }
+/*************General*************/
+
+.text-light {
+    color: white;
+}
+.text-center{
+    text-align: center;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
